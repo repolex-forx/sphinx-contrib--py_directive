@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "sphinx-contrib",
+  "repo": "py_directive",
+  "versions": [
+    {
+      "commit": "14b44920c0fdffd2ec5284ba3690c787c2968f84",
+      "parsed_at": "2026-11-07T00:48:05.128599+00:00",
+      "filetree": "filetree/14b44920c0fdffd2ec5284ba3690c787c2968f84.nq.gz",
+      "blobs": [
+        "blob/0a746f9fd1dbb1f44dc66d014ead02043108ec2b.nq.gz",
+        "blob/ab39fe969fd459a472936ada4e2d892deb31682e.nq.gz",
+        "blob/6c6a13959777fe6425b2c51996c4970140d21e44.nq.gz",
+        "blob/45dd5f5b51e10661a6b6699e050c4ab23d721804.nq.gz",
+        "blob/2d74c58f248790e34e482eb07e20ec6c753c9d2d.nq.gz",
+        "blob/8e7e2bc0d26ebc39199523caf9850ff62f3d650a.nq.gz",
+        "blob/0d4bb6e4bf8c65d247320bb0d3994ebb7c698c49.nq.gz",
+        "blob/43d1972bbbbb754eb4f211b3b329ae204c8e3dc0.nq.gz",
+        "blob/6fa3d7b1a7c3390469529d23cf0a5769b718215e.nq.gz",
+        "blob/b5a7dc29ef0f7f3593b1c61cfc5dfe8a17d3918c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
