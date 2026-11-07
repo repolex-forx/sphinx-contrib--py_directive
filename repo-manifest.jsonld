@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/py_directive/commit/14b44920c0fdffd2ec5284ba3690c787c2968f84",
       "git:hexsha": "14b44920c0fdffd2ec5284ba3690c787c2968f84",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
